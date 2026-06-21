@@ -1,4 +1,4 @@
-# Task 2: Data Visualization & Storytelling
+# Data Visualization & Storytelling
 
 ## Objective
 Create visualizations that convey a compelling story using **Superstore.csv** and tools like Tableau or Power BI.
